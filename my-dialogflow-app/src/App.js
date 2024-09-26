@@ -1,4 +1,4 @@
-import logo from './hyattlogo.png';
+import logo from './Hyatt-Logo.png';
 import './App.css';
 
 function App() {
