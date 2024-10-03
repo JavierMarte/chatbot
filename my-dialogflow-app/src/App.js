@@ -1,4 +1,4 @@
-import logo from './Hyatt-Logo.png';
+import logo from './uspslogo.png';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Welcome to Hyatt !
+        Welcome to USPS !
         </p>
         <a
           className="App-link"

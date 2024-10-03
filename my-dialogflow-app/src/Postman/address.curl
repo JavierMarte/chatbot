@@ -1,0 +1,3 @@
+curl --location 'https://us-central1-onyx-hangout-436223-b1.cloudfunctions.net/addresslookups' \
+--header 'Content-Type: application/json' \
+--data '{"address":"1600 Amphitheatre Parkway, Mountain View, CA"}'
